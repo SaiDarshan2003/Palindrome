@@ -3,11 +3,11 @@
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
 ### Step 1:
-Create a class and declare three variable with integer datatype
+Create a class and declare a variable with integer datatype
 ### Step 2:
-Use while loop to check whether num1 is a palindrome or not.
+Use while loop to check whether the input is a palindrome or not.
 ### Step 3:
-Use if condition to check whether num1 is equal to the calculated number.
+Use if condition to check whether input is equal to the calculated number.
 ### Step 4:
 Display the results of the condition of the input using Console.WriteLine().
 ## Program:
